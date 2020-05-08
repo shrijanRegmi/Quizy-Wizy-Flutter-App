@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "564576077201",
+    "firebase_url": "https://quizy-wizy.firebaseio.com",
+    "project_id": "quizy-wizy",
+    "storage_bucket": "quizy-wizy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564576077201:android:675c66abd69a9453c14630",
+        "android_client_info": {
+          "package_name": "com.example.quizy_wizy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564576077201-75so0mrt1ac78i1ko72u5o6uolvm3eae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANNkmaJStjTQqqrsM8U7jXdR8c6ChySyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564576077201-75so0mrt1ac78i1ko72u5o6uolvm3eae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
